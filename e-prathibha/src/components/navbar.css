@@ -1,0 +1,19 @@
+.c1{
+    background-color:bisque;
+    color: rgb(212, 59, 59);
+    padding: 90px;
+   
+}
+.log:hover{
+    color: black;
+}
+.c2{
+    padding: 20px 20px;
+    font-size: xx-large;
+}
+.c3{
+    padding-top: 25px;
+}
+.c3:hover{
+    color: black;
+}

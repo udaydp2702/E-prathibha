@@ -1,0 +1,15 @@
+.email-verification-container {
+    background: linear-gradient(to right,rgb(164, 164, 222),rgb(241, 152, 152)
+     ); 
+    padding: 20px;
+    max-width: 400px;
+    margin: 0 auto; 
+    color: #fff; 
+  }
+  @media (max-width: 600px) {
+    .email-verification-container {
+      max-width: 100%; 
+    }
+  }
+  
+  
